@@ -1,3 +1,5 @@
 /target
 /.idea
 Java.iml
+.gitignore
+.gitignore.bak
